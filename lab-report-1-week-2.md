@@ -1,12 +1,12 @@
 # Week 2 Lab Report
 
 ## Table of Contents
-1. [Installing Visual Studio Code](#installing-visual-studio-code)
-2. [Remotely connecting](#remotely-connecting)
-3. [Trying some commands](#trying-some-commands)
-4. [Moving files with `scp`](#moving-files-with-scp)
-5. [Setting an SSH Key](#setting-an-ssh-key)
-6. [Opitmizing Remote Running](#optimizing-remote-running)
+1. [Installing Visual Studio Code](#1-installing-visual-studio-code)
+2. [Remotely connecting](#2-remotely-connecting)
+3. [Trying some commands](#3-trying-some-commands)
+4. [Moving files with `scp`](#4-moving-files-with-scp)
+5. [Setting an SSH Key](#5-setting-an-ssh-key)
+6. [Opitmizing Remote Running](#6-optimizing-remote-running)
 
 # Introduction
 
