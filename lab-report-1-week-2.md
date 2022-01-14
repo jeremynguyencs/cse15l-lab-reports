@@ -12,13 +12,13 @@
 
 Hi incoming 15L students (or myself). There's a crazy amount of things you can do with your computer, and I'm going to show you how to do some of them. I'll be using Visual Studio Code, which is a great tool for editing and running code. I'll be using the `scp` command to move files between computers.
 
-1. Installing Visual Studio Code
+## 1. Installing Visual Studio Code
 
 Visual Studio Code is a great tool for editing and running code. It's free, and you can download it from the [their website here](https://code.visualstudio.com/) if you have a MacOS, Windows, or Linux device. It's not *just* a text editor but a fully-featured IDE (**I**ntegrated **D**evelopment **E**nvironment). After running the download, installing the program, and opening it, you'll see a bunch of options. Here's a screenshot of my Visual Studio Code program.
 
 ![Lab Report 1 Image 1](./images/lab-report-1-image1.png)
 
-2. Remotely connecting
+## 2. Remotely connecting
 
 Next step is learning how to utilize your CSE 15L course account. The CS department at UC San Diego provides an ETS course account for all students in certain courses, and many assignments and projects require access to that course account. Today, we will be using a very useful tool known as SSH or Secure Shell.
 
@@ -55,7 +55,7 @@ Type ```yes``` and press enter. Then, type your password again. If all is good, 
 ![Lab Report 1 Image 2](./images/lab-report-1-image2.png)
 
 
-3. Trying some commands
+## 3. Trying some commands
 
 There are certaintly a large number of commands you can use with your computer through the terminal when accessing your course account. Here are a few examples:
 
@@ -82,7 +82,7 @@ Look at these commands and see what happens!
 Here\'s an example of some of those commands being run!
 ![Lab Report 1 Image 3](./images/lab-report-1-image3.png)
 
-4. Moving files with `scp`
+## 4. Moving files with `scp`
 
 So far, we've seen how to use SSH to connect to your course account. Now, we'll learn how to use `scp` to move files between computers.
 
@@ -109,7 +109,7 @@ Now, login to the server again, and voila! you should see the file. Now compile 
 Here's an example of my output.
 ![Lab Report 1 Image 4](./images/lab-report-1-image4.png)
 
-5. Setting an SSH Key
+## 5. Setting an SSH Key
 
 However, what you've probably noticed his how much easier it would be to not constantly set a password every time you connect to a server. You can avoid this by setting up an SSH key, which is a file that contains a private key and a public key.
 
@@ -159,7 +159,7 @@ Here is a screenshot of me running SSH without a passphrase or passcode!
 ![Lab Report 1 Image 5](./images/lab-report-1-image5.png)
 
 
-6. Optimizing Remote Running
+## 6. Optimizing Remote Running
 
 However, there are certaintly a large number of commands you can use with your computer through the terminal when accessing your course account. There are two methods to optimize the running of your remote commands.
 
