@@ -1,3 +1,9 @@
+# Table of Contents
+
+1. [Lab Report 1](lab-report-1-week-2.html)
+
+---
+
 # Testing the use of Markdown formatting
 
 Hi, I will be *using* various Markdown formatting syntax and tags within `index.md`. There are a **lot** of these.
