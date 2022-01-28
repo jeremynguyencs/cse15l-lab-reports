@@ -181,6 +181,8 @@ Here's a good example of using these two methods together to quickly send, compi
 $ scp WhereAmI.java cs15l\*\*\*\*\*\*@ieng6.ucsd.edu:~/; ssh cs15l\*\*\*\*\*\*@ieng6.edu "javac Config.java; java Config"
 ```
 
+For me, the total keystroke count to now run this file remotely after editing is around 38 character presses and actions, which is down from about 82 keystrokes originally.
+
 And here it is in use!
 ![Lab Report 1 Image 6](./images/lab-report-1-image6.png)
 
