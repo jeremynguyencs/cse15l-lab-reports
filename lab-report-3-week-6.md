@@ -1,9 +1,9 @@
-# Week 2 Lab Report: Streamlining ssh Configuration
+# Week 6 Lab Report 3: Streamlining ssh Configuration
 
 ## Table of Contents
-1. [.ssh/config file](#1-installing-visual-studio-code)
-2. [ssh command](#2-remotely-connecting)
-3. [scp command](#3-trying-some-commands)
+1. [.ssh/config file](#1-sshconfig-file)
+2. [ssh command](#2-ssh-command)
+3. [scp command](#3-scp-command)
 
 ## 1. `.ssh/config` file
 To streamline the ssh configuration, I created a file called `.ssh/config` that
