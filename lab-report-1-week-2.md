@@ -1,4 +1,4 @@
-# Week 2 Lab Report
+# Week 2 Lab Report 1
 
 ## Table of Contents
 1. [Installing Visual Studio Code](#1-installing-visual-studio-code)

@@ -24,15 +24,15 @@ I edited this file through Visual Studio Code and here is a screenshot of that:
 
 ## 2. `ssh` command
 
-Now, I can simply ssh into that remote server through simply ieng6 and the name
-of the host or the alias. In other words, simply using `ssh ieng6` will connect
-me.
+Now, I can simply ssh into that remote server through simply ieng6, or the name
+of the host/the alias. In other words, simply using `ssh ieng6` will connect
+me to the server.
 
 Here is a screenshot of that working well.
 
 ![Lab Report 3 Image 2](./images/lab-report-3-image2.png)
 
-## 1. `scp` command
+## 3. `scp` command
 
 In addition, using `scp` or `scp -r` will copy the file to the remote server.
 
