@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository is a repository of lab reports for the course CSE 15L: Software Tools and Techniques Laboratory at the University of California San Diego. This application is a static website built with Jekyll hosted on Github Pages. It uses the theme [Just the Docs](https://just-the-docs.github.io/just-the-docs/.)
+This repository is a repository of lab reports for the course CSE 15L: Software Tools and Techniques Laboratory at the University of California San Diego. This application is a static website built with Jekyll hosted on Github Pages. It uses the theme [Just the Docs](https://just-the-docs.github.io/just-the-docs/).
 
 The directory structure of the application is as follows:
 

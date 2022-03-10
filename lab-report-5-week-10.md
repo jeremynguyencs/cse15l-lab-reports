@@ -1,4 +1,4 @@
-# Week 10 Lab Report 5: CommonMark
+# Lab Report 5 - Week 10: CommonMark
 
 ## Table of Contents
 
