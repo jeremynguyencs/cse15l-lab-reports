@@ -1,4 +1,4 @@
-# Week 2 Lab Report 1
+# Week 2 Lab Report 1: Github and Github Pages
 
 ## Table of Contents
 1. [Installing Visual Studio Code](#1-installing-visual-studio-code)
@@ -16,7 +16,7 @@ Hi incoming 15L students (or myself). There's a crazy amount of things you can d
 
 Visual Studio Code is a great tool for editing and running code. It's free, and you can download it from the [their website here](https://code.visualstudio.com/) if you have a MacOS, Windows, or Linux device. It's not *just* a text editor but a fully-featured IDE (**I**ntegrated **D**evelopment **E**nvironment). After running the download, installing the program, and opening it, you'll see a bunch of options. Here's a screenshot of my Visual Studio Code program.
 
-![Lab Report 1 Image 1](./images/lab-report-1-image1.png)
+![Lab Report 1 Image 1](./images/lab-report-1/lab-report-1-image1.png)
 
 ## 2. Remotely connecting
 
@@ -52,7 +52,7 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?
 
 Type ```yes``` and press enter. Then, type your password again. If all is good, you will have succesfully used SSH to login to your course account! Here is an example of using SSH to login to your course account:
 
-![Lab Report 1 Image 2](./images/lab-report-1-image2.png)
+![Lab Report 1 Image 2](./images/lab-report-1/lab-report-1-image2.png)
 
 
 ## 3. Trying some commands
@@ -80,7 +80,7 @@ Look at these commands and see what happens!
 * cat /home/linux/ieng6/cs15lwi22/public/hello.txt
 
 Here\'s an example of some of those commands being run!
-![Lab Report 1 Image 3](./images/lab-report-1-image3.png)
+![Lab Report 1 Image 3](./images/lab-report-1/lab-report-1-image3.png)
 
 ## 4. Moving files with `scp`
 
@@ -107,7 +107,7 @@ and then type in your password again.
 Now, login to the server again, and voila! you should see the file. Now compile and run the code again, and compare the output.
 
 Here's an example of my output.
-![Lab Report 1 Image 4](./images/lab-report-1-image4.png)
+![Lab Report 1 Image 4](./images/lab-report-1/lab-report-1-image4.png)
 
 ## 5. Setting an SSH Key
 
@@ -156,7 +156,7 @@ Congratulations! You've succcesfully set up your SSH keys and can now connect to
 
 Here is a screenshot of me running SSH without a passphrase or passcode!
 
-![Lab Report 1 Image 5](./images/lab-report-1-image5.png)
+![Lab Report 1 Image 5](./images/lab-report-1/lab-report-1-image5.png)
 
 
 ## 6. Optimizing Remote Running
@@ -184,6 +184,6 @@ $ scp WhereAmI.java cs15l\*\*\*\*\*\*@ieng6.ucsd.edu:~/; ssh cs15l\*\*\*\*\*\*@i
 For me, the total keystroke count to now run this file remotely after editing is around 38 character presses and actions, which is down from about 82 keystrokes originally.
 
 And here it is in use!
-![Lab Report 1 Image 6](./images/lab-report-1-image6.png)
+![Lab Report 1 Image 6](./images/lab-report-1/lab-report-1-image6.png)
 
 Thank you for reading my lab report!

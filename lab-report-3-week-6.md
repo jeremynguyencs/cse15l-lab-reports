@@ -20,7 +20,7 @@ Host ieng6
 
 I edited this file through Visual Studio Code and here is a screenshot of that:
 
-![Lab Report 3 Image 1](./images/lab-report-3-image1.png)
+![Lab Report 3 Image 1](./images/lab-report-3/lab-report-3-image1.png)
 
 ## 2. `ssh` command
 
@@ -30,7 +30,7 @@ me to the server.
 
 Here is a screenshot of that working well.
 
-![Lab Report 3 Image 2](./images/lab-report-3-image2.png)
+![Lab Report 3 Image 2](./images/lab-report-3/lab-report-3-image2.png)
 
 ## 3. `scp` command
 
@@ -39,4 +39,4 @@ In addition, using `scp` or `scp -r` will copy the file to the remote server.
 Here is an example of me using the `scp` command to transfer a file called
 `test-file.md` into the remote server.
 
-![Lab Report 3 Image 3](./images/lab-report-3-image3.png)
+![Lab Report 3 Image 3](./images/lab-report-3/lab-report-3-image3.png)
