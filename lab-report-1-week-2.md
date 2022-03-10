@@ -1,4 +1,4 @@
-# Week 2 Lab Report 1: Github and Github Pages
+# Lab Report 1 - Week 2 : Github and Github Pages
 
 ## Table of Contents
 1. [Installing Visual Studio Code](#1-installing-visual-studio-code)

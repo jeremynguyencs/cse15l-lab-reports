@@ -1,4 +1,4 @@
-# Week 6 Lab Report 3: Streamlining ssh Configuration
+# Lab Report 3 - Week 6: Streamlining ssh Configuration
 
 ## Table of Contents
 1. [.ssh/config file](#1-sshconfig-file)

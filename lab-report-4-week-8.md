@@ -1,4 +1,4 @@
-# Week 8 Lab Report 4: Debuggers
+# Lab Report 4 - Week 8: Debuggers
 
 ## Table of Contents
 1. [Snippet 1](#1-snippet-1)

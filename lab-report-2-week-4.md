@@ -1,4 +1,4 @@
-# Week 4 Lab Report 2: When Tests Accumulate
+# Lab Report 2 - Week 4: When Tests Accumulate
 
 ## Table of Contents
 1. [Code Change 1](#1-code-change-1)
